@@ -7,3 +7,5 @@ Kayaknya dosennya Keren
 untuk milestone 1
 
 Yeay aku bisa masuk kesini :D
+
+git study
